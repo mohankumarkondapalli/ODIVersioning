@@ -1,2 +1,2 @@
 # ODIVersioning
-nformation of your Project or Notes
+Information of your Project or Notes
